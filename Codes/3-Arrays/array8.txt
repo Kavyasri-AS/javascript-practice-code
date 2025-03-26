@@ -1,0 +1,6 @@
+let dailyActivities = ['work', 'eat', 'sleep'];
+
+// remove the first element
+dailyActivities.shift();
+
+console.log(dailyActivities); // ['eat', 'sleep']

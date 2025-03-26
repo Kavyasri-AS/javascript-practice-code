@@ -1,0 +1,11 @@
+
+
+let sum = 0;
+let number = 1;
+
+do {
+    sum += number;
+   
+} while(number = 0)
+
+console.log(sum);

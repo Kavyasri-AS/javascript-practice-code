@@ -1,0 +1,8 @@
+
+You can also add elements or change the elements by accessing the index value.
+let dailyActivities = [ 'eat', 'sleep'];
+
+// this will add the new element 'exercise' at the 2 index
+dailyActivities[2] = 'exercise';
+
+console.log(dailyActivities); // ['eat', 'sleep', 'exercise']
