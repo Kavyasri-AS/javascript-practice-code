@@ -1,0 +1,8 @@
+   //Type Script file
+
+
+   let batch:number = 123;
+
+   console.log(batch);
+
+   document.getElementById("root").innerhtml = batch.toString();
